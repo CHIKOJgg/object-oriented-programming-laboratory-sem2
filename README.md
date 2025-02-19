@@ -1,1 +1,1 @@
-# object-oriented-programming-laboratory-sem2
+This repo contains all object oriented programming laboratory from 2 semester 
